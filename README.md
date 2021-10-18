@@ -10,7 +10,7 @@ Atualmente estou realizando um curso de Data Expert na @dncgroup, no qual estou 
 
 ### 📱 Vamos conversar?!
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpaguiar99/)](https://www.linkedin.com/in/jpaguiar99/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:joaoaguiar@id.uff.br)](joaoaguiar@id.uff.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:joaoaguiar@id.uff.br)](mailto:joaoaguiar@id.uff.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5524999425563&text=Ol%C3%A1,%20como%20vai?)](https://api.whatsapp.com/send?phone=5524999425563&text=Ol%C3%A1,%20como%20vai?)
 
 ## Tecnologias:
